@@ -1,2 +1,5 @@
 git clone: Es el comando que se usa para crear una copia completa de un repositorio existente remoto/local en mi maquina.
 git commit: Crea una versión o una "snapshot" con los nuevos cambios hechos en el archivo.
+git push: Lo envía al repositorio Remoto. Asi mismo se usa al inicio el comando "git push --set-upstream origin main/git push -u origin main y luego solo "git push"
+git status: Muestra el estado actual del  repositorio y en que rama se encuentra, cuales están modificados,  cuáles están stageados y cuáles son nuevos (untracked)
+git add: Ayuda a agregar o seleccionar los archivos o cambios que entraran en el próximo commit.

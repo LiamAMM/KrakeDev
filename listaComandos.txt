@@ -1,1 +1,2 @@
 git clone: Es el comando que se usa para crear una copia completa de un repositorio existente remoto/local en mi maquina.
+git commit: Crea una versión o una "snapshot" con los nuevos cambios hechos en el archivo.

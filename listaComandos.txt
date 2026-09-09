@@ -1,0 +1,1 @@
+git clone: Es el comando que se usa para crear una copia completa de un repositorio existente remoto/local en mi maquina.
